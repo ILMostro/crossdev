@@ -1,5 +1,7 @@
 # Gentoo Overlay for Crossdev Packages
 
+The `crossdev` repo is available at https://github.com/alphallc/crossdev
+
 See [Gentoo Wiki: AArch64](https://wiki.gentoo.org/wiki/Raspberry_Pi_3_64_bit_Install) for updated information 
 about working with cross-platform development for the ARM architecture on a Gentoo system.
 
