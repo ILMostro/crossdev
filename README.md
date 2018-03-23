@@ -40,6 +40,5 @@ following places (overlays) in the order that they are listed.
 | 2     | cross-${CTARGET}   | The name of an overlay in the form of 'cross-${CTARGET}'  |
 | 3     | crossdev   | The `crossdev` overlay, if one is created or exists  |
 | 4     | Priority   | Finally, it falls back on the overlay with the lowest priority value in `/etc/portage/repos.conf/`  |
-| 5     | Alphabetical   | If the priority value of the overlay(s) is the same, it defaults to using the first 
-							overlay alphabetically.	|
+| 5     | Alphabetical   | If the priority value of the overlay(s) is the same, it defaults to using the first overlay alphabetically.	|
 
